@@ -1,4 +1,4 @@
-![Image Unavailable](null "FLARE Logo")
+![Image Unavailable](https://raw.githubusercontent.com/tlc-corp/FLARE/master/fL.png "FLARE Logo")
 # FLARE
 Better than PocketMine!
 ## Features:
