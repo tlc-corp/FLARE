@@ -1,0 +1,1 @@
+start "" bin\mintty.exe -w max -h max bin\php\php.exe src\Flare\Flare.php --enable-ansi %*
